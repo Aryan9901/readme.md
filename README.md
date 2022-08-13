@@ -26,7 +26,7 @@
 
 </br>
 
-[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan9901)]
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan9901)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
