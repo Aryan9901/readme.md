@@ -1,4 +1,4 @@
-[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan9901)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2> Hey there! I'm Aryan. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
@@ -26,7 +26,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan9901)]
 
 
 <h3> 🤝🏻 Connect with Me </h3>
