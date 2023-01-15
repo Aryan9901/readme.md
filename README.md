@@ -28,7 +28,7 @@
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan9901)
 
-
+<br>
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
